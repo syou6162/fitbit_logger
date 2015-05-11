@@ -1,0 +1,7 @@
+{
+    "log": {
+	"properties": {
+	    "date": { "type": "date", "format": "date" }
+	}
+    }
+}
